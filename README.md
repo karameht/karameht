@@ -6,7 +6,7 @@
 After years of using GitHub, I've decided to move my work to a platform that aligns better with my values regarding privacy, open-source integrity, and independence from Big Tech "monopolies".
 
 ### 🚀 Find me here now:
-👉 **[codeberg.org/karahmet](https://codeberg.org/karahmet)**
+👉 **[codeberg.org/karameht](https://codeberg.org/karameht)**
 
 ---
 
